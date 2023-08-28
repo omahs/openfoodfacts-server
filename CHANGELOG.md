@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.17.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.17.0...v2.17.1) (2023-08-28)
+
+
+### Bug Fixes
+
+* conflict additives variants and and ([#8905](https://github.com/openfoodfacts/openfoodfacts-server/issues/8905)) ([c8d6e44](https://github.com/openfoodfacts/openfoodfacts-server/commit/c8d6e44c8db5abc2b12e169c428e2fec43a167b3))
+* xx: entries for ingredients matching  ([#8891](https://github.com/openfoodfacts/openfoodfacts-server/issues/8891)) ([9ea491c](https://github.com/openfoodfacts/openfoodfacts-server/commit/9ea491c83fc8f997cd5750779a143c60e9210fe5))
+
+
+### Taxonomy
+
+* a few Lithuanian categories ([#8902](https://github.com/openfoodfacts/openfoodfacts-server/issues/8902)) ([5c050e4](https://github.com/openfoodfacts/openfoodfacts-server/commit/5c050e49f2aaab28b2a5241e1abf2a412bbda56e))
+* adding some german translation for ingredients of More Protein Brownie ([#8912](https://github.com/openfoodfacts/openfoodfacts-server/issues/8912)) ([54c1c78](https://github.com/openfoodfacts/openfoodfacts-server/commit/54c1c783e27b031612b1885d1fc148ce67acd90a))
+* Extend en taxonomy of subcategories of `en:Biscuit with a filled chocolate bar covering` ([#8843](https://github.com/openfoodfacts/openfoodfacts-server/issues/8843)) ([3d70f76](https://github.com/openfoodfacts/openfoodfacts-server/commit/3d70f762a7d1ba691182ba57a687df43ac32fc8d))
+* Lithuanian labels logos ([#8874](https://github.com/openfoodfacts/openfoodfacts-server/issues/8874)) ([d1c9065](https://github.com/openfoodfacts/openfoodfacts-server/commit/d1c9065135104a92ee3cb3de308088fd22f65288))
+* spices and sauces updates ([#8777](https://github.com/openfoodfacts/openfoodfacts-server/issues/8777)) ([35bf44a](https://github.com/openfoodfacts/openfoodfacts-server/commit/35bf44a741077e42d263dfe321f5333d6e9f78c3))
+* Update polish taxonomy ([#8898](https://github.com/openfoodfacts/openfoodfacts-server/issues/8898)) ([d3304c1](https://github.com/openfoodfacts/openfoodfacts-server/commit/d3304c15738e5dfeaad153a8162032406e2318b8))
+
 ## [2.17.0](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.16.0...v2.17.0) (2023-08-17)
 
 
